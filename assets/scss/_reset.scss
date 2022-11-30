@@ -2,6 +2,7 @@
     --color-background: #000201;
     --gray-200: #BDC2CB;
     --white: #ffffff;
+    --blue: #3265EA;
 }
 
 * {
@@ -11,6 +12,10 @@
     list-style: none;
     font-family: 'Archivo', sans-serif;
     color: var(--white);
+}
+
+a {
+    text-decoration: none;
 }
 
 button {
